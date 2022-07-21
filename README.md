@@ -9,4 +9,4 @@ Latte is a simple ping / latency measuring tool. It was originally written in py
  - Download the setup from releases and follow the instructions.
 
 
- 
+ ![](./icon.png)
